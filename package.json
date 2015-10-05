@@ -1,0 +1,17 @@
+{
+  "name": "gulp-online-convert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basename": "^0.1.2",
+    "formatstring": "unlight/formatstring#v2",
+    "unirest": "^0.4.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
