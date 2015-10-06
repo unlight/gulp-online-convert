@@ -3,7 +3,7 @@ var gulp = require("gulp");
 var onlineConvert = require("./");
 
 gulp.task("convert", function() {
-	gulp.src("./image.png", {read: false})
+	gulp.src("./*.png", {read: false})
 		.pipe(onlineConvert("svg"))
 
 });
