@@ -7,10 +7,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^1.4.2",
+    "async": "^2.1.5",
     "basename": "^0.1.2",
     "formatstring": "unlight/formatstring#v2",
-    "unirest": "^0.4.2"
+    "unirest": "^0.5.1"
   },
   "devDependencies": {
     "gulp": "^3.9.0"
